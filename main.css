@@ -85,5 +85,6 @@ body {
 }
 
 .section#s1 {
-  background-image: url("scenergy teset.jpg");   
+  background-image: url("scenergy teset.jpg");
+  z-index:-5; 
 }
